@@ -1,0 +1,466 @@
+{
+  "componentChunkName": "component---src-templates-know-more-index-jsx",
+  "path": "/cartao-de-credito-consignado/",
+  "result": {
+    "data": {
+      "wordpressPage": {
+        "title": "Cartão de Crédito",
+        "slug": "cartao-de-credito-consignado",
+        "id": "88f1bd12-f329-5276-9eff-fa36c50ee39c",
+        "date": "November 25, 2019",
+        "acf": {
+          "metaDescription": "Cartão de Crédito Olé Consignado",
+          "banner": {
+            "image": {
+              "alt": "CARTÃO OLÉ CONSIGNADO",
+              "image": {
+                "localFile": {
+                  "childImageSharp": {
+                    "fluid": {
+                      "base64": "data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAIABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAT/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgME/9oADAMBAAIQAxAAAAGS0lrhA/8A/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAMBEgIRIf/aAAgBAQABBQJXDKbKvs//xAAXEQEAAwAAAAAAAAAAAAAAAAAAARJR/9oACAEDAQE/AcUh/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8BJ//EABkQAAIDAQAAAAAAAAAAAAAAAAESABAhQf/aAAgBAQAGPwLBHbRwV//EABgQAAMBAQAAAAAAAAAAAAAAAAABIRGx/9oACAEBAAE/IWe6DKKTXdNVT//aAAwDAQACAAMAAAAQf/8A/8QAGREBAAIDAAAAAAAAAAAAAAAAAQARITFR/9oACAEDAQE/ENY9i7aT/8QAFREBAQAAAAAAAAAAAAAAAAAAEEH/2gAIAQIBAT8Qo//EABoQAAICAwAAAAAAAAAAAAAAAAERADEhUZH/2gAIAQEAAT8QbGXUYKkwo0Al8ep//9k=",
+                      "aspectRatio": 2.624,
+                      "src": "/static/83ea10df3a24eb3660406a0338ddf696/a70b2/SITE_pgprods_bn.jpg",
+                      "srcSet": "/static/83ea10df3a24eb3660406a0338ddf696/bd861/SITE_pgprods_bn.jpg 656w,\n/static/83ea10df3a24eb3660406a0338ddf696/36913/SITE_pgprods_bn.jpg 1312w,\n/static/83ea10df3a24eb3660406a0338ddf696/a70b2/SITE_pgprods_bn.jpg 1574w",
+                      "sizes": "(max-width: 1574px) 100vw, 1574px"
+                    }
+                  }
+                }
+              }
+            },
+            "icon": {
+              "alt": "GANHE R$100 DE CRÉDITO + VANTAGENS EXCLUSIVAS",
+              "icon": {
+                "localFile": {
+                  "childImageSharp": {
+                    "fluid": {
+                      "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsSAAALEgHS3X78AAAD6klEQVQ4y1WTW0xcVRSG/3NmGAYOAsNcz2UudIApMDDQgimlXlp8KNHEtF5ijA4GbOJjjY81MdEXUx+MiUZ9MTTGxFs1XihtEFogygw3p8gdygzQaWkBZRhjaubMXm6mtklXzp99zt7Z39lr/WvjaRQI4LECtTUOpXMW9pf7YQn3whb+Cfbw93z8EtZwBK5wAmp4AUrHrMHdkYCjY42vJeDsmoPrKEcIz8CUY6FPdBUmod5IiR6aL/DRZIGXIgaFhuCkPjiIg+kS16qg0ZbopW0+t2Dw03ReJXWXHaYr+YG/PgFcuBe/mLTCBJSNmXwvTXgaMlFPSL9S6NV7YNMvwqFfhawvC6rOT6XzU+kpR1D/XHlc/0p+VI8Gj9GYVJl6Fai4DxwUXPIC5M0Y//MQLNl+WFkv7OxHLp4yuyQ42BKc7La9nqXeeo+lPz3H/rnQx9LPnsrGSyopVuRPnQAqQRy2Cq2Np/vnstHDRiUf+80WYAOCi6doo59hpR/4+LVop/OQKPFwO2WmZmj37IeU/vgz2nryJbbC10dFJfUUzAE0cOCa4H5uGypNlVRkJ931LCL5aChfowGzm/qKfNQjOHM1PM81IMp00+ynZME+SprLKQkHSwpuisC52wZzdS7dJajuJSh/T0GmCcnPxhw1LOoK0q9aHV0u8efM4I5TDyx0ASUU52W5afDS9dJqWi+rZRtQaBRyuhmmIPY8/sBXbpyDPLVoVGn2o1eyU92PsMH8YhpGKV3eEz9Vf4GHBtz1NFjTQtfURoofOk7XuOLaAbbJgb8LSno/jA0w4G7bcEPOXRc8NHfmeGa000/DShWNaY0UaTpGw81tNKSFaLD+CA3WHqYVVz1bh8JVRusozt7iGUzDsRsQTU0cJf4PVF+/xes4rTRmYgfb2WT1ERq1V9OINcBGTBqLeEI0UNHEIoFDbMUeZDeg6huhJzKb7S9m0qfeoIS3+d9GoBWtmjEHnIVyNM6Bi9zpGd4e0yhhV3nrTPKij3Ozou5QJioqmVXI7DZPcZuLdZymO52naedEJ81rB+acQAhVsikHHBFcNt7Y2/xq0bxlf+aPqpbMROixbMx3kGJVLXtztMVN2+CO8tuyuwh5chy2L3ohvXkWOOkDqiGZLOXgVbwXvC6RVF45xb1NlHSFaFmqoFlBvRODfXEc9u8igvzOt7A9/xqKamEQ7ZBgvL/5ZKMY5HcZhXnAN7DlqKtQz6xB3ZmH7WIUlvd7UNr1Noqb95klGQ7k48EQ0mV1BiquM+xAE99Fac5dYe+pQV7uw80d6hIfssJplB7YaobQDau4A7dxHarI34UXUCh4YBDuMh7Uf8lIu8oRr3HXAAAAAElFTkSuQmCC",
+                      "aspectRatio": 1.2988505747126438,
+                      "src": "/static/9f9281b8d64f82a3c6ce4a02520aeaa1/31119/img_landing_cards.9f9281b8.png",
+                      "srcSet": "/static/9f9281b8d64f82a3c6ce4a02520aeaa1/ee6d0/img_landing_cards.9f9281b8.png 113w,\n/static/9f9281b8d64f82a3c6ce4a02520aeaa1/0c2b2/img_landing_cards.9f9281b8.png 225w,\n/static/9f9281b8d64f82a3c6ce4a02520aeaa1/31119/img_landing_cards.9f9281b8.png 450w,\n/static/9f9281b8d64f82a3c6ce4a02520aeaa1/8c332/img_landing_cards.9f9281b8.png 600w",
+                      "sizes": "(max-width: 450px) 100vw, 450px"
+                    }
+                  }
+                }
+              }
+            },
+            "ctas": {
+              "button1": {
+                "idCode": "cta_pgcartao_contrat_banner",
+                "link": "/cliente/solicitacao",
+                "text": "Peça o seu cartão",
+                "typeStyle": "normal",
+                "gaEvents": {
+                  "gaButtonClick": ""
+                }
+              },
+              "button2": {
+                "idCode": "cta_pgcartao_saibamais_banner",
+                "link": "#Um cartão de crédito consignado",
+                "text": "SAIBA MAIS",
+                "typeStyle": "outline",
+                "gaEvents": {
+                  "gaButtonClick": ""
+                }
+              },
+              "quantities": "1"
+            },
+            "description": {
+              "color": "#ffffff",
+              "value": "COMPRAS_NA_INTERNET SEM PAGAR ANUIDADE"
+            },
+            "information": {
+              "color": "",
+              "link": "",
+              "type": "text",
+              "value": ""
+            },
+            "title": {
+              "color": "#ffc314",
+              "value": "CARTÃO DE CRÉDITO CONSIGNADO"
+            },
+            "overlay": "yes"
+          },
+          "productAbout": {
+            "title": {
+              "value": "DIFERENCIAIS DA OLÉ",
+              "color": "#f44444"
+            },
+            "highline": {
+              "value": "PARA VOCÊ",
+              "color": "#4d4d4d"
+            },
+            "image": {
+              "position": "center",
+              "alt": "Cartão olé consignado",
+              "image": {
+                "localFile": {
+                  "childImageSharp": {
+                    "fluid": {
+                      "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAYAAADkmO9VAAAACXBIWXMAAAsSAAALEgHS3X78AAAD6klEQVQ4y1WTW0xcVRSG/3NmGAYOAsNcz2UudIApMDDQgimlXlp8KNHEtF5ijA4GbOJjjY81MdEXUx+MiUZ9MTTGxFs1XihtEFogygw3p8gdygzQaWkBZRhjaubMXm6mtklXzp99zt7Z39lr/WvjaRQI4LECtTUOpXMW9pf7YQn3whb+Cfbw93z8EtZwBK5wAmp4AUrHrMHdkYCjY42vJeDsmoPrKEcIz8CUY6FPdBUmod5IiR6aL/DRZIGXIgaFhuCkPjiIg+kS16qg0ZbopW0+t2Dw03ReJXWXHaYr+YG/PgFcuBe/mLTCBJSNmXwvTXgaMlFPSL9S6NV7YNMvwqFfhawvC6rOT6XzU+kpR1D/XHlc/0p+VI8Gj9GYVJl6Fai4DxwUXPIC5M0Y//MQLNl+WFkv7OxHLp4yuyQ42BKc7La9nqXeeo+lPz3H/rnQx9LPnsrGSyopVuRPnQAqQRy2Cq2Np/vnstHDRiUf+80WYAOCi6doo59hpR/4+LVop/OQKPFwO2WmZmj37IeU/vgz2nryJbbC10dFJfUUzAE0cOCa4H5uGypNlVRkJ931LCL5aChfowGzm/qKfNQjOHM1PM81IMp00+ynZME+SprLKQkHSwpuisC52wZzdS7dJajuJSh/T0GmCcnPxhw1LOoK0q9aHV0u8efM4I5TDyx0ASUU52W5afDS9dJqWi+rZRtQaBRyuhmmIPY8/sBXbpyDPLVoVGn2o1eyU92PsMH8YhpGKV3eEz9Vf4GHBtz1NFjTQtfURoofOk7XuOLaAbbJgb8LSno/jA0w4G7bcEPOXRc8NHfmeGa000/DShWNaY0UaTpGw81tNKSFaLD+CA3WHqYVVz1bh8JVRusozt7iGUzDsRsQTU0cJf4PVF+/xes4rTRmYgfb2WT1ERq1V9OINcBGTBqLeEI0UNHEIoFDbMUeZDeg6huhJzKb7S9m0qfeoIS3+d9GoBWtmjEHnIVyNM6Bi9zpGd4e0yhhV3nrTPKij3Ozou5QJioqmVXI7DZPcZuLdZymO52naedEJ81rB+acQAhVsikHHBFcNt7Y2/xq0bxlf+aPqpbMROixbMx3kGJVLXtztMVN2+CO8tuyuwh5chy2L3ohvXkWOOkDqiGZLOXgVbwXvC6RVF45xb1NlHSFaFmqoFlBvRODfXEc9u8igvzOt7A9/xqKamEQ7ZBgvL/5ZKMY5HcZhXnAN7DlqKtQz6xB3ZmH7WIUlvd7UNr1Noqb95klGQ7k48EQ0mV1BiquM+xAE99Fac5dYe+pQV7uw80d6hIfssJplB7YaobQDau4A7dxHarI34UXUCh4YBDuMh7Uf8lIu8oRr3HXAAAAAElFTkSuQmCC",
+                      "aspectRatio": 1.304,
+                      "src": "/static/9f9281b8d64f82a3c6ce4a02520aeaa1/7f374/img_landing_cards.9f9281b8.png",
+                      "srcSet": "/static/9f9281b8d64f82a3c6ce4a02520aeaa1/63475/img_landing_cards.9f9281b8.png 326w,\n/static/9f9281b8d64f82a3c6ce4a02520aeaa1/7f374/img_landing_cards.9f9281b8.png 600w",
+                      "sizes": "(max-width: 600px) 100vw, 600px"
+                    }
+                  }
+                }
+              }
+            },
+            "columns": "2",
+            "quantities": "8",
+            "informativeCard1": {
+              "title": {
+                "value": "SEM CUSTOS",
+                "color": "#f44444"
+              },
+              "description": {
+                "value": "Você não tem custos com a emissão nem com a manutenção do seu cartão Olé. Sem anuidade, totalmente gratuito.",
+                "color": "#4d4d4d"
+              }
+            },
+            "informativeCard2": {
+              "title": {
+                "value": "ACOMPANHE PELO APLICATIVO",
+                "color": "#f44444"
+              },
+              "description": {
+                "value": "Veja o seu limite e consulte suas faturas através do aplicativo Olé.",
+                "color": "#4d4d4d"
+              }
+            },
+            "informativeCard3": {
+              "title": {
+                "value": "TAXAS 4x MAIS BAIXAS",
+                "color": "#f44444"
+              },
+              "description": {
+                "value": "Aproveite as taxas do consignado são bem menores do que no cartão de crédito convencional.",
+                "color": "#4d4d4d"
+              }
+            },
+            "informativeCard4": {
+              "title": {
+                "value": "CRÉDITO PARA NEGATIVADOS",
+                "color": "#f44444"
+              },
+              "description": {
+                "value": "Seu nome está negativado nos órgãos de proteção ao crédito? Não tem problema, na Olé você pode ter seu Cartão de Crédito.",
+                "color": "#4d4d4d"
+              }
+            },
+            "informativeCard5": {
+              "title": {
+                "value": "SOLICITE SEM SAIR DE CASA",
+                "color": "#f44444"
+              },
+              "description": {
+                "value": "Praticidade e comodidade para pedir seu cartão. Você pode solicitar pelo computador ou celular. O processo é 100% digital.",
+                "color": "#4d4d4d"
+              }
+            },
+            "informativeCard6": {
+              "title": {
+                "value": "CARTÃO INTERNACIONAL",
+                "color": "#f44444"
+              },
+              "description": {
+                "value": "Utilize se cartão Olé em compras no exterior. São mais de 27 milhões de estabelecimentos comerciais no Brasil e no mundo.",
+                "color": "#4d4d4d"
+              }
+            },
+            "informativeCard7": {
+              "title": {
+                "value": "SAQUES EM DINHEIRO",
+                "color": "#f44444"
+              },
+              "description": {
+                "value": "Com o Cartão Olé, você pode sacar seu limite de crédito em dinheiro e o aproveitar como quiser.",
+                "color": "#4d4d4d"
+              }
+            },
+            "informativeCard8": {
+              "title": {
+                "value": "DESCONTOS E VANTAGENS",
+                "color": "#f44444"
+              },
+              "description": {
+                "value": "Ganhe descontos especiais em nossa rede de parceiros ao usar o Cartão Olé em suas compras.",
+                "color": "#4d4d4d"
+              }
+            }
+          },
+          "callCards": {
+            "quantities": "1",
+            "callCard1": {
+              "backgroundColor": "#e30613",
+              "imageCard": {
+                "alt": "Olé Vantagens",
+                "imageCard": {
+                  "localFile": {
+                    "childImageSharp": {
+                      "fluid": {
+                        "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAAsSAAALEgHS3X78AAAElElEQVQ4y51R+0+TVxj+9su2TDcvFFeghdILtFAstDiKVqGIDjCAMih3JmJwumQwcauCMie7ENw0m3MLsgmy6NjMpnVx+sNcNJlxmwGFWkSgUlqwtVwstF8v9Dvvuw/2H+xJnvOc57x5n5zzHmr0Zf6pp0lpFrMyY8C2SmiaDI0xTXIkpgmW1hCxyRYiYSkyWRdrHJHJtlrIUmSyR0hMdj5b44pNVp74gTVUODyyQnCZurky4upoehbe3ZiJ98KE2Bsuwn84UXifK8BBvgj7We3nSfChMA57uWJ8EBmH/eGxeIcnxrvRMTgUI0Wzai3a4tdiX7TsEaWVcS9VaZNQX5m3cGh3ATlYU0DeLswkJ/eXkq7mCnJaX0EadBvJ0SoNyVbJSFP5dvJh0VYiihASWZSQHK9YR84fKWB6PirDM026AUrAWWHI2ZSCteVFzN6SXCjL3YI1hdnwaX0ldHxQg237y6E8IwHq8hRYnCKD3VoNNm7VoJAXjRsTYrGlZB22H9pOOo+W4DeNRUZqzcpVBqVUgmkqBbPlNQVok1muS4L9ZVvg64Z8eLdQA+lyMezdlIh1SiUc35aGrboMzGTHURElxdrUtfjFgVzS0VSEX+kLjVRiZKhBmyDCdIWM2ayUQa46HiozVXBAtwkOlqTCO/lK2JuTDM3qFNwpjEe5VI7n6nTYplRhW6wCWxIVeOytLPJdcymeOVxspBQCriEriYfFmkimSivA6s0CfCOVj9q4cNwg4+PrainW5adio0wOdWo15GdosHXHZtiTqILaeAV+y57pt6eR+jezMDtdbaSo5543LFu2HLmcVUzYmtUYEcYBDocDy1/hwAsvhUBoyKuQo5BCW2kxntLXY3dDFVZrknF9tAgzpVIsksmxTBxDVDIJ8rk8I6VMVhsSlSkYE5vARAliIZwngrBwAUbyIjGaz0e5WAjV6XLsbDsMJz4/CfqaKqjN3QbrpfFQvEENVRoN7FSnk8odebirqMBIuVwuA7KYnp5mnjx5AtbxcRh7bEaLeQRtj4fRMW6GmbFenLI+BIfDCVaLBSYsY2Ads4BzcgJcT53gmZklwWAQXXNzRsrr9S4FsmDw/4MsLj6fz0h5PJ6lQIZFwGbDwOgoBMbGwG82g49V3+Ag0ONWcNIL4JjzgWPeB1MePzjcfpiY98MUHQC2dSmQpumlwEuLxh8IBumpZ0BPOoC2z4CPVcJ6xu7EgHMangW8MOv3wKzXDfMsvT4a/DQNgXk3BAP+pUD2tUaK9niuLhrwzpK5oUs48/R34p+7wow6bgfP3Lqw0HXjh4XrfTeDI1dMQWNXP3PnJxNz/doI6f7TSloHneSE1QV2f/C/Gy4Gut3z7ew+sPDMFrh380ccf/QlWu/vw4G+n7H+4lEs/qQU32t/Hy/oLuL5kt/w7LG/sOWzXtzXM4wb/pjEF2/Z8bYrsDRIN+19QHWf61r2cGgo1DI8JLlz+9p694Aub/p+YXXfraaGI79+3HLo9J5TzR367ztL2i/3lLbf+KXh3N/ddR3Gs41nzSePdU7uamyfHrbYXYsf4/HQ9/4FXPs2LRfHaCUAAAAASUVORK5CYII=",
+                        "aspectRatio": 1.25,
+                        "src": "/static/aa78217f0481b83277da10bc7035a8fe/9a8d7/img_advantages.aa78217f.png",
+                        "srcSet": "/static/aa78217f0481b83277da10bc7035a8fe/96037/img_advantages.aa78217f.png 180w,\n/static/aa78217f0481b83277da10bc7035a8fe/e8026/img_advantages.aa78217f.png 360w,\n/static/aa78217f0481b83277da10bc7035a8fe/9a8d7/img_advantages.aa78217f.png 720w,\n/static/aa78217f0481b83277da10bc7035a8fe/1ce57/img_advantages.aa78217f.png 992w",
+                        "sizes": "(max-width: 720px) 100vw, 720px"
+                      }
+                    }
+                  }
+                }
+              },
+              "title": {
+                "value": "Olé Vantagens",
+                "color": "#ffffff"
+              },
+              "subtitle": {
+                "value": "Use o seu Cartão Olé em suas compras e",
+                "color": "#ffffff",
+                "highline": {
+                  "value": "ganhe descontos em nossos parceiros!",
+                  "color": "#ffc314"
+                }
+              },
+              "description": "<p><span style=\"color: #ffffff;\"><a style=\"color: #ffffff;\" href=\"https://institucional.oleconsignado.com.br/digital/vantagens/\">Consulte a lista de vantagens e descontos.</a></span></p>\n",
+              "cta": {
+                "idCode": "",
+                "text": "",
+                "link": "",
+                "typeStyle": "normal",
+                "color": "",
+                "backgroundColor": "",
+                "gaEvents": {
+                  "gaButtonClick": ""
+                }
+              }
+            },
+            "callCard2": {
+              "backgroundColor": "#e30613",
+              "imageCard": {
+                "alt": "Olé vantangens",
+                "imageCard": {
+                  "localFile": {
+                    "childImageSharp": {
+                      "fluid": {
+                        "base64": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAAsSAAALEgHS3X78AAAElElEQVQ4y51R+0+TVxj+9su2TDcvFFeghdILtFAstDiKVqGIDjCAMih3JmJwumQwcauCMie7ENw0m3MLsgmy6NjMpnVx+sNcNJlxmwGFWkSgUlqwtVwstF8v9Dvvuw/2H+xJnvOc57x5n5zzHmr0Zf6pp0lpFrMyY8C2SmiaDI0xTXIkpgmW1hCxyRYiYSkyWRdrHJHJtlrIUmSyR0hMdj5b44pNVp74gTVUODyyQnCZurky4upoehbe3ZiJ98KE2Bsuwn84UXifK8BBvgj7We3nSfChMA57uWJ8EBmH/eGxeIcnxrvRMTgUI0Wzai3a4tdiX7TsEaWVcS9VaZNQX5m3cGh3ATlYU0DeLswkJ/eXkq7mCnJaX0EadBvJ0SoNyVbJSFP5dvJh0VYiihASWZSQHK9YR84fKWB6PirDM026AUrAWWHI2ZSCteVFzN6SXCjL3YI1hdnwaX0ldHxQg237y6E8IwHq8hRYnCKD3VoNNm7VoJAXjRsTYrGlZB22H9pOOo+W4DeNRUZqzcpVBqVUgmkqBbPlNQVok1muS4L9ZVvg64Z8eLdQA+lyMezdlIh1SiUc35aGrboMzGTHURElxdrUtfjFgVzS0VSEX+kLjVRiZKhBmyDCdIWM2ayUQa46HiozVXBAtwkOlqTCO/lK2JuTDM3qFNwpjEe5VI7n6nTYplRhW6wCWxIVeOytLPJdcymeOVxspBQCriEriYfFmkimSivA6s0CfCOVj9q4cNwg4+PrainW5adio0wOdWo15GdosHXHZtiTqILaeAV+y57pt6eR+jezMDtdbaSo5543LFu2HLmcVUzYmtUYEcYBDocDy1/hwAsvhUBoyKuQo5BCW2kxntLXY3dDFVZrknF9tAgzpVIsksmxTBxDVDIJ8rk8I6VMVhsSlSkYE5vARAliIZwngrBwAUbyIjGaz0e5WAjV6XLsbDsMJz4/CfqaKqjN3QbrpfFQvEENVRoN7FSnk8odebirqMBIuVwuA7KYnp5mnjx5AtbxcRh7bEaLeQRtj4fRMW6GmbFenLI+BIfDCVaLBSYsY2Ads4BzcgJcT53gmZklwWAQXXNzRsrr9S4FsmDw/4MsLj6fz0h5PJ6lQIZFwGbDwOgoBMbGwG82g49V3+Ag0ONWcNIL4JjzgWPeB1MePzjcfpiY98MUHQC2dSmQpumlwEuLxh8IBumpZ0BPOoC2z4CPVcJ6xu7EgHMangW8MOv3wKzXDfMsvT4a/DQNgXk3BAP+pUD2tUaK9niuLhrwzpK5oUs48/R34p+7wow6bgfP3Lqw0HXjh4XrfTeDI1dMQWNXP3PnJxNz/doI6f7TSloHneSE1QV2f/C/Gy4Gut3z7ew+sPDMFrh380ccf/QlWu/vw4G+n7H+4lEs/qQU32t/Hy/oLuL5kt/w7LG/sOWzXtzXM4wb/pjEF2/Z8bYrsDRIN+19QHWf61r2cGgo1DI8JLlz+9p694Aub/p+YXXfraaGI79+3HLo9J5TzR367ztL2i/3lLbf+KXh3N/ddR3Gs41nzSePdU7uamyfHrbYXYsf4/HQ9/4FXPs2LRfHaCUAAAAASUVORK5CYII=",
+                        "aspectRatio": 1.25,
+                        "src": "/static/aa78217f0481b83277da10bc7035a8fe/9a8d7/img_advantages.aa78217f.png",
+                        "srcSet": "/static/aa78217f0481b83277da10bc7035a8fe/96037/img_advantages.aa78217f.png 180w,\n/static/aa78217f0481b83277da10bc7035a8fe/e8026/img_advantages.aa78217f.png 360w,\n/static/aa78217f0481b83277da10bc7035a8fe/9a8d7/img_advantages.aa78217f.png 720w,\n/static/aa78217f0481b83277da10bc7035a8fe/1ce57/img_advantages.aa78217f.png 992w",
+                        "sizes": "(max-width: 720px) 100vw, 720px"
+                      }
+                    }
+                  }
+                }
+              },
+              "title": {
+                "value": "Olé vantagens",
+                "color": "#ffffff"
+              },
+              "subtitle": {
+                "value": "Use o seu cartão olé em suas compras e",
+                "color": "#ffffff",
+                "highline": {
+                  "value": "ganhe descontos em nossos parceiros!",
+                  "color": "#ffc314"
+                }
+              },
+              "description": "<p><span style=\"color: #ffffff;\"><a style=\"color: #ffffff;\" href=\"https://institucional.oleconsignado.com.br/digital/vantagens/\">Consulte a lista de vantagens e descontos.</a></span></p>\n",
+              "cta": {
+                "idCode": "",
+                "text": "",
+                "link": "",
+                "typeStyle": "normal",
+                "color": "",
+                "backgroundColor": "",
+                "gaEvents": {
+                  "gaButtonClick": ""
+                }
+              }
+            },
+            "callCard3": {
+              "backgroundColor": "#000000",
+              "imageCard": {
+                "alt": "",
+                "imageCard": {
+                  "localFile": null
+                }
+              },
+              "title": {
+                "value": "",
+                "color": ""
+              },
+              "subtitle": {
+                "value": "",
+                "color": "",
+                "highline": {
+                  "value": "",
+                  "color": ""
+                }
+              },
+              "description": "",
+              "cta": {
+                "idCode": "",
+                "text": "",
+                "link": "",
+                "typeStyle": "normal",
+                "color": "",
+                "backgroundColor": "",
+                "gaEvents": {
+                  "gaButtonClick": ""
+                }
+              }
+            }
+          },
+          "faq": {
+            "title": {
+              "value": "Dúvidas sobre o Cartão Olé",
+              "color": "#f44444"
+            },
+            "highline": {
+              "value": "",
+              "color": ""
+            },
+            "questionQuantities": "6",
+            "question1": {
+              "idCode": "cta_pgcartao_faq_quempd",
+              "question": "Quem pode pedir o cartão?",
+              "answer": "<p>O cartão de crédito da Olé pode ser solicitado por você, servidor público federal, servidor público estadual, servidor público municipal e, aposentados e pensionistas do INSS.</p>\n<p>Para solicitar o Cartão de Crédito Olé, você precisa verificar se seu convênio é atendido pela Olé durante sua simulação. Convênio é uma parceria firmada entre um órgão público e a Olé Consignado para realização de serviços de crédito consignado.<br />\nPara mais detalhes, consulte também o <a href=\"https://www.sc.pages03.net/lp/48045/476159/Regulamento_emprestimocartao.pdf\" target=\"_blank\" rel=\"noopener\">regulamento no link</a>.</p>\n"
+            },
+            "question2": {
+              "idCode": "cta_pgcartao_faq_comofunc",
+              "question": "COMO FUNCIONA O CARTÃO OLÉ CONSIGNADO?",
+              "answer": "<p>Com o Cartão de Crédito Olé você pode realizar compras em todos os estabelecimentos credenciados à bandeira do seu cartão e até mesmo, sacar seu limite de crédito disponível em dinheiro, se disponível para seu convênio, com taxas de juros reduzidas.</p>\n<p>Todo o mês, após o fechamento da sua fatura, somente o valor mínimo vem descontado diretamente em sua folha de pagamento. O restante do valor você precisará pagar a parte.</p>\n"
+            },
+            "question3": {
+              "idCode": "cta_pgcartao_faq_comopedir",
+              "question": "COMO SOLICITAR SEU CARTÃO OLÉ",
+              "answer": "<p>Para solicitar seu Cartão Olé é simples e rápido.</p>\n<p>Para solicitar pelo computador, acesse a página de cartão de crédito, inicie uma simulação, preencha todos seus dados e finalize sua solicitação do Cartão de Crédito Olé. Pronto, vamos analisar todos seus dados e te retornaremos.<br />\nPara solicitar seu cartão pelo aplicativo, abra o aplicativo, acesse sua conta ou clique em Quero Simular, inicie uma simulação, preencha todos seus dados e finalize sua solicitação. Pronto, vamos analisar sua solicitação e te retornaremos.</p>\n"
+            },
+            "question4": {
+              "idCode": "cta_pgcartao_faq_comoacomp",
+              "question": "COMO ACOMPANHAR MINHA SOLICITAÇÃO?",
+              "answer": "<p>Para acompanhar sua solicitação, basta acessar o site ou o aplicativo, informar seu CPF e a senha que você criou ao realizar sua solicitação.</p>\n"
+            },
+            "question5": {
+              "idCode": "cta_pgcartao_faq_oque",
+              "question": "O QUE EU PRECISO TER EM MÃOS PARA SOLICITAR UM CARTÃO OLÉ?",
+              "answer": "<p>Para solicitar um Cartão de Crédito consignado, precisaremos que você informe alguns dados pessoais (nome, cpf, celular, etc). Se você for aposentado ou pensionista do INSS, precisaremos também de alguns dados sobre o seu benefício (ex.: número e valor do benefício). Agora, se você for funcionário público, precisaremos de alguns dados funcionais (ex.: número da matrícula, valor do salário, etc).</p>\n<p>E, para finalizar, precisaremos que você fotografe:</p>\n<ul>\n<li>Identidade (RG ou CNH);</li>\n<li>Comprovante de endereço (com data de emissão máxima de 3 meses);</li>\n<li>Contracheque;</li>\n<li>Foto do seu rosto (selfie).</li>\n</ul>\n<p>É simples, rápido e seguro!</p>\n"
+            },
+            "question6": {
+              "idCode": "cta_pgcartao_faq_entendafat",
+              "question": "ENTENDA A FATURA DO SEU CARTÃO",
+              "answer": "<p><strong>Pagamento mínimo da fatura</strong><br />\nÉ o valor descontado automaticamente da sua remuneração e/ou benefício. O restante dos gastos será cobrado na fatura, mensalmente disponibilizada, com a descrição de todas as suas transações (compras e saques efetuados). Ela pode ser paga parcialmente ou em sua totalidade até 30 dias após vencimento, em qualquer agência bancária ou nas casas lotéricas. Após este prazo, é necessário entrar em contato com a central para solicitar a nova fatura: 4001 4451 (Capitais) / 0800 728 4451(Demais Localidades).</p>\n<p><strong>Exemplo:</strong></p>\n<ul class=\"entenda_card\">\n<li>Limite: R$ 3.000,00.</li>\n<li>Pagamento Mínimo: R$ 200,00.</li>\n<li>Gastos no Cartão: R$ 1.000,00.</li>\n</ul>\n<p>Conforme o exemplo acima, <u>R$ 200,00 </u>serão descontados automaticamente do seu SALÁRIO para o pagamento mínimo da FATURA. Os <u>R$ 800,00</u> restantes (<u>R$ 1.000,00</u> menos <u>R$ 200,00</u>) serão cobrados na FATURA. Caso o total dos seus gastos seja inferior ao pagamento mínimo (calculado com base no seu SALÁRIO), será descontado apenas o menor valor.</p>\n<p>» Sempre que possível quite integralmente sua fatura, para você não pagar juros no crédito rotativo do seu cartão.</p>\n"
+            },
+            "question7": {
+              "idCode": "cta_pgcartao_faq_entendafat",
+              "question": "ENTENDA A FATURA DO SEU CARTÃO",
+              "answer": "<p><strong>Pagamento mínimo da fatura</strong><br />\nÉ o valor descontado automaticamente da sua remuneração e/ou benefício. O restante dos gastos será cobrado na fatura, mensalmente disponibilizada, com a descrição de todas as suas transações (compras e saques efetuados). Ela pode ser paga parcialmente ou em sua totalidade até 30 dias após vencimento, em qualquer agência bancária ou nas casas lotéricas. Após este prazo, é necessário entrar em contato com a central para solicitar a nova fatura: 4001 4451 (Capitais) / 0800 728 4451(Demais Localidades).</p>\n<p><strong>Exemplo:</strong></p>\n<ul class=\"entenda_card\">\n<li>Limite: R$ 3.000,00.</li>\n<li>Pagamento Mínimo: R$ 200,00.</li>\n<li>Gastos no Cartão: R$ 1.000,00.</li>\n</ul>\n<p>Conforme o exemplo acima, <u>R$ 200,00 </u>serão descontados automaticamente do seu SALÁRIO para o pagamento mínimo da FATURA. Os <u>R$ 800,00</u> restantes (<u>R$ 1.000,00</u> menos <u>R$ 200,00</u>) serão cobrados na FATURA. Caso o total dos seus gastos seja inferior ao pagamento mínimo (calculado com base no seu SALÁRIO), será descontado apenas o menor valor.</p>\n<p>» Sempre que possível quite integralmente sua fatura, para você não pagar juros no crédito rotativo do seu cartão.</p>\n"
+            },
+            "question8": {
+              "idCode": "",
+              "question": "",
+              "answer": ""
+            },
+            "question9": {
+              "idCode": "",
+              "question": "",
+              "answer": ""
+            },
+            "question10": {
+              "idCode": "",
+              "question": "",
+              "answer": ""
+            }
+          },
+          "ctas": {
+            "quantities": "3",
+            "cta1": {
+              "idCode": "",
+              "text": "Peça seu cartão",
+              "link": "/cliente/solicitacao",
+              "typeStyle": "normal",
+              "color": "#e30613",
+              "backgroundColor": "#ffc314",
+              "verticalLine": "yes",
+              "verticalLineOver": "no",
+              "local": "productAbout",
+              "gaEvents": {
+                "gaButtonClick": ""
+              }
+            },
+            "cta2": {
+              "idCode": "cta_pgcartao_contrat_card",
+              "text": "Peça seu cartão",
+              "link": "/cliente/solicitacao",
+              "typeStyle": "normal",
+              "color": "#e30613",
+              "backgroundColor": "#ffc314",
+              "verticalLine": "yes",
+              "verticalLineOver": "yes",
+              "local": "callCards",
+              "gaEvents": {
+                "gaButtonClick": ""
+              }
+            },
+            "cta3": {
+              "idCode": "cta_pgcartao_contrat_faq",
+              "text": "Peça seu cartão",
+              "link": "/cliente/solicitacao",
+              "typeStyle": "normal",
+              "color": "#e30613",
+              "backgroundColor": "#ffc314",
+              "verticalLine": "no",
+              "verticalLineOver": "no",
+              "local": "faq",
+              "gaEvents": {
+                "gaButtonClick": ""
+              }
+            },
+            "cta4": {
+              "idCode": "",
+              "text": "",
+              "link": "",
+              "typeStyle": [
+                "outline"
+              ],
+              "color": "#FFFFFF",
+              "backgroundColor": "#000000",
+              "verticalLine": [
+                "no"
+              ],
+              "verticalLineOver": [
+                "no"
+              ],
+              "local": [
+                "callCards"
+              ],
+              "gaEvents": {
+                "gaButtonClick": ""
+              }
+            }
+          },
+          "aditionalComponent": {
+            "title": {
+              "value": "Qual a taxa e o CET do cartão de crédito olé?",
+              "color": "#f44444"
+            },
+            "highline": {
+              "value": "",
+              "color": "#FFFFFF"
+            },
+            "content": "<h4 style=\"text-align: center;\"><strong>Seguem abaixo as taxas e o CET médio para o cartão de crédito por categoria de convênio:</strong></h4>\n<p style=\"text-align: center;\"><b>INSS</b> &#8211; Taxa: 3,0% a.m.| CET: 3,16% a.m. e 45,34% a.a.</p>\n<p style=\"text-align: center;\"><b>Federal</b> &#8211; Taxa: 3,35% a.m.| CET: 3,52% a.m. e 51,54% a.a.</p>\n<p style=\"text-align: center;\"><b>Estaduais</b> &#8211; Taxa média: 4,50% | CET: 4,71% a.m. e 73,70% a.a.</p>\n<p style=\"text-align: center;\"><b>Municipais</b> &#8211; Taxa média: 4,00% | CET: 4,19% a.m. e 63,72% a.a.</p>\n",
+            "local": "productAbout"
+          }
+        }
+      }
+    },
+    "pageContext": {
+      "id": "88f1bd12-f329-5276-9eff-fa36c50ee39c"
+    }
+  },
+  "staticQueryHashes": [
+    "2671584025",
+    "3431751126",
+    "3461621091"
+  ]
+}

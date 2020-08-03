@@ -1,0 +1,1924 @@
+{
+  "success": true,
+  "message": "Os dados foram mesclados com sucesso",
+  "data": {
+    "id": 2,
+    "slug": "home",
+    "title": {
+      "rendered": "Home"
+    },
+    "acf": {
+      "bannerPromocional": [
+        {
+          "bannerDesktop": {
+            "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/07/CampanhaJunho-BannerSite-1920x500px-1.png",
+            "link": "https://livre.unidas.com.br/carros/renegade-longitude-flex-4x2-at-1-8-4p",
+            "titulo": "50% OFF nas 8 primeiras parcelas do Renegade",
+            "descricao": "50% OFF nas 8 primeiras parcelas do Renegade",
+            "valorSemDesconto": "",
+            "valorComDesconto": "",
+            "botaoNome": "",
+            "botaoLink": ""
+          },
+          "bannerMobile": {
+            "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/07/CampanhaJunho-BannerSite-640x640px-1.png",
+            "link": "https://livre.unidas.com.br/carros/renegade-longitude-flex-4x2-at-1-8-4p",
+            "titulo": "50% OFF nas 8 primeiras parcelas do Renegade",
+            "descricao": "50% OFF nas 8 primeiras parcelas do Renegade",
+            "valorSemDesconto": "",
+            "valorComDesconto": "",
+            "botaoNome": "",
+            "botaoLink": ""
+          },
+          "id": 1337,
+          "slug": "1337"
+        },
+        {
+          "bannerDesktop": {
+            "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/07/CampanhaJunho-BannerSite-1920x500px-02-1.png",
+            "link": "https://livre.unidas.com.br/carros/kwid-zen-1-flex-mt",
+            "titulo": "30% OFF nas 8 primeiras parcelas do seu Kwid",
+            "descricao": "30% OFF nas 8 primeiras parcelas do seu Kwid",
+            "valorSemDesconto": "",
+            "valorComDesconto": "",
+            "botaoNome": "",
+            "botaoLink": ""
+          },
+          "bannerMobile": {
+            "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/07/CampanhaJunho-BannerSite-640x640px-02-1.png",
+            "link": "https://livre.unidas.com.br/carros/kwid-zen-1-flex-mt",
+            "titulo": "30% OFF nas 8 primeiras parcelas do seu Kwid",
+            "descricao": "30% OFF nas 8 primeiras parcelas do seu Kwid",
+            "valorSemDesconto": "",
+            "valorComDesconto": "",
+            "botaoNome": "",
+            "botaoLink": ""
+          },
+          "id": 1342,
+          "slug": "1342"
+        },
+        {
+          "bannerDesktop": {
+            "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/07/CampanhaJunho-BannerSite-1920x500px-03-1.png",
+            "link": "https://livre.unidas.com.br/carros/captur-intense-1-6-16v-flex-5p-aut",
+            "titulo": "Captur com preço especial - Unidas Livre",
+            "descricao": "Captur com preço especial - Unidas Livre",
+            "valorSemDesconto": "",
+            "valorComDesconto": "",
+            "botaoNome": "",
+            "botaoLink": ""
+          },
+          "bannerMobile": {
+            "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/07/CampanhaJunho-BannerSite-640x640px-03-1.png",
+            "link": "https://livre.unidas.com.br/carros/captur-intense-1-6-16v-flex-5p-aut",
+            "titulo": "Captur com preço especial - Unidas Livre",
+            "descricao": "Captur com preço especial - Unidas Livre",
+            "valorSemDesconto": "",
+            "valorComDesconto": "",
+            "botaoNome": "",
+            "botaoLink": ""
+          },
+          "id": 1347,
+          "slug": "captur-com-preco-especial"
+        },
+        {
+          "bannerDesktop": {
+            "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/07/CampanhaJunho-BannerSite-1920x500px-04-1.png",
+            "link": "https://livre.unidas.com.br/carros/compass-longitude-flex-4x2-at-2-0-4p",
+            "titulo": "50% OFF em 8 mensalidades do seu Compass",
+            "descricao": "50% OFF em 8 mensalidades do seu Compass",
+            "valorSemDesconto": "",
+            "valorComDesconto": "",
+            "botaoNome": "",
+            "botaoLink": ""
+          },
+          "bannerMobile": {
+            "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/07/CampanhaJunho-BannerSite-640x640px-04-1.png",
+            "link": "https://livre.unidas.com.br/carros/compass-longitude-flex-4x2-at-2-0-4p",
+            "titulo": "50% OFF em 8 mensalidades do seu Compass",
+            "descricao": "50% OFF em 8 mensalidades do seu Compass",
+            "valorSemDesconto": "",
+            "valorComDesconto": "",
+            "botaoNome": "",
+            "botaoLink": ""
+          },
+          "id": 1351,
+          "slug": "50-off-em-8-mensalidades-do-seu-compass"
+        },
+        {
+          "bannerDesktop": {
+            "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/07/CampanhaJunho-BannerSite-1920x500px-07-2.png",
+            "link": "https://livre.unidas.com.br/carros?nomeveiculo=hb20",
+            "titulo": "Unidas Livre - Nova Linha HB20 2021",
+            "descricao": "Unidas Livre - Nova Linha HB20 2021",
+            "valorSemDesconto": "",
+            "valorComDesconto": "",
+            "botaoNome": "",
+            "botaoLink": ""
+          },
+          "bannerMobile": {
+            "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/07/CampanhaJunho-BannerSite-640x640px-07.png",
+            "link": "https://livre.unidas.com.br/carros?nomeveiculo=hb20",
+            "titulo": "Unidas Livre - Nova Linha HB20 2021",
+            "descricao": "Unidas Livre - Nova Linha HB20 2021",
+            "valorSemDesconto": "",
+            "valorComDesconto": "",
+            "botaoNome": "",
+            "botaoLink": ""
+          },
+          "id": 1355,
+          "slug": "1355"
+        },
+        {
+          "bannerDesktop": {
+            "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/07/CampanhaJunho-BannerSite-1920x500px-08-1.png",
+            "link": "https://livre.unidas.com.br/carros?nomeveiculo=corolla",
+            "titulo": "Unidas Livre - Nova Linha Corolla 2021",
+            "descricao": "Unidas Livre - Nova Linha Corolla 2021",
+            "valorSemDesconto": "",
+            "valorComDesconto": "",
+            "botaoNome": "",
+            "botaoLink": ""
+          },
+          "bannerMobile": {
+            "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/07/CampanhaJunho-BannerSite-640x640px-08-1.png",
+            "link": "https://livre.unidas.com.br/carros?nomeveiculo=corolla",
+            "titulo": "Unidas Livre - Nova Linha Corolla 2021",
+            "descricao": "Unidas Livre - Nova Linha Corolla 2021",
+            "valorSemDesconto": "",
+            "valorComDesconto": "",
+            "botaoNome": "",
+            "botaoLink": ""
+          },
+          "id": 1359,
+          "slug": "unidas-livre-nova-linha-corolla-2021"
+        }
+      ],
+      "marcas": [
+        {
+          "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/04/marca-2.png",
+          "descricao": "Renault",
+          "ativo": true,
+          "id": 130,
+          "slug": "renault"
+        },
+        {
+          "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/04/marca-3.png",
+          "descricao": "Jeep",
+          "ativo": true,
+          "id": 131,
+          "slug": "jeep"
+        },
+        {
+          "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/04/marca-9.png",
+          "descricao": "Audi",
+          "ativo": true,
+          "id": 237,
+          "slug": "audi"
+        },
+        {
+          "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/04/marca-5-1.png",
+          "descricao": "BMW",
+          "ativo": true,
+          "id": 238,
+          "slug": "bmw"
+        },
+        {
+          "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/04/marca-4.png",
+          "descricao": "Fiat",
+          "ativo": true,
+          "id": 132,
+          "slug": "fiat"
+        },
+        {
+          "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/04/marca-6-1.png",
+          "descricao": "Mercedes-Benz",
+          "ativo": true,
+          "id": 246,
+          "slug": "mercedes-benz"
+        },
+        {
+          "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/04/marca-1.png",
+          "descricao": "Volkswagen",
+          "ativo": true,
+          "id": 123,
+          "slug": "volkswagen"
+        },
+        {
+          "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/07/marca-toyota.png",
+          "descricao": "Toyota",
+          "ativo": true,
+          "id": 1903,
+          "slug": "toyota"
+        },
+        {
+          "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/07/marca-hyundai.png",
+          "descricao": "Hyundai",
+          "ativo": true,
+          "id": 1904,
+          "slug": "hyundai"
+        }
+      ],
+      "modelos": [
+        {
+          "informacoesModelo": {
+            "marca": {
+              "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/04/marca-2.png",
+              "descricao": "Renault",
+              "ativo": true,
+              "id": 130,
+              "slug": "renault"
+            },
+            "categoria": [
+              {
+                "nome": "Popular",
+                "idBackoffice": "6",
+                "ativo": true,
+                "id": 402,
+                "slug": "popular"
+              }
+            ],
+            "cambio": [
+              {
+                "nome": "Mecânico",
+                "ativo": true,
+                "id": 431,
+                "slug": "mecanico"
+              }
+            ],
+            "prazoEntrega": [
+              {
+                "descricao": "Até 90 dias",
+                "valor": "90",
+                "id": 0,
+                "slug": null
+              }
+            ],
+            "itensSerie": [
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/ABS.png",
+                "idBackoffice": "2",
+                "codigo": "ABS",
+                "descricao": "Freios Abs",
+                "id": 538,
+                "slug": "freios-abs"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/AR.png",
+                "idBackoffice": "3",
+                "codigo": "AR",
+                "descricao": "Ar Condicionado",
+                "id": 539,
+                "slug": "ar-condicionado"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/TE.png",
+                "idBackoffice": "5",
+                "codigo": "TE",
+                "descricao": "Trava Elétrica",
+                "id": 541,
+                "slug": "trava-eletrica"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/VE.png",
+                "idBackoffice": "6",
+                "codigo": "VE",
+                "descricao": "Vidros Elétricos",
+                "id": 542,
+                "slug": "vidros-eletricos"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/BKL.png",
+                "idBackoffice": "8",
+                "codigo": "BKL",
+                "descricao": "Brake Ligth",
+                "id": 544,
+                "slug": "brake-ligth"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/ECT.png",
+                "idBackoffice": "9",
+                "codigo": "ECT",
+                "descricao": "Encosto Cabeça Bco Traseiro",
+                "id": 545,
+                "slug": "encosto-cabeca-bco-traseiro"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/KIT.png",
+                "idBackoffice": "13",
+                "codigo": "KIT",
+                "descricao": "Kit Visibilidade",
+                "id": 549,
+                "slug": "kit-visibilidade"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/DE.png",
+                "idBackoffice": "32",
+                "codigo": "DE",
+                "descricao": "Direção Elétrica",
+                "id": 567,
+                "slug": "direcao-eletrica"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/RUS.png",
+                "idBackoffice": "39",
+                "codigo": "RUS",
+                "descricao": "Radio com USB",
+                "id": 572,
+                "slug": "radio-com-usb"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/BAG.png",
+                "idBackoffice": "40",
+                "codigo": "BAG",
+                "descricao": "BAG",
+                "id": 573,
+                "slug": "bag"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/SBA.png",
+                "idBackoffice": "46",
+                "codigo": "SBA",
+                "descricao": "Side Bag",
+                "id": 576,
+                "slug": "side-bag"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/RUS2.png",
+                "idBackoffice": "48",
+                "codigo": "RUS",
+                "descricao": "Rádio Com USB",
+                "id": 578,
+                "slug": "radio-com-usb-2"
+              }
+            ],
+            "inicioVigencia": "0001-01-01T00:00:00",
+            "ativo": true
+          },
+          "servicosOpcionais": null,
+          "promocao": {
+            "ativo": true,
+            "infoPromocao": {
+              "titulo": "30%OFF",
+              "descricaoCatalogo": "Assine por 48 meses e pague R$615,30 nos 8 primeiros meses e R$879 do 9º ao 48º mês",
+              "descricaoDetalhada": "Assine por 48 meses e pague R$615,30 nos 8 primeiros meses e R$879 do 9º ao 48º mês",
+              "precoDetalhado": "Da 1ª até a 8ª parcela por R$615.30/mês, da 9ª até a última parcela por R$879.00/mês "
+            }
+          },
+          "checkEntregaRapida": false,
+          "tonalidades": [
+            {
+              "codigo": "105",
+              "descricao": "Glacier (sólida)",
+              "codigoCor": "4",
+              "descricaoCor": "Branco",
+              "codigoCorHtml": "#c7c7c7",
+              "id": 721,
+              "slug": "branco-glacier"
+            },
+            {
+              "codigo": "150",
+              "descricao": "Étoile (metálica)",
+              "codigoCor": "9",
+              "descricaoCor": "Prata",
+              "codigoCorHtml": "#989898",
+              "id": 761,
+              "slug": "prata-etoile-metalica"
+            },
+            {
+              "codigo": "106",
+              "descricao": " Nacré (metálica)",
+              "codigoCor": "10",
+              "descricaoCor": "Preto",
+              "codigoCorHtml": "#20201e",
+              "id": 722,
+              "slug": "preto-nacre"
+            },
+            {
+              "codigo": "149",
+              "descricao": "(metálica)",
+              "codigoCor": "15",
+              "descricaoCor": "Marfim",
+              "codigoCorHtml": "#ebe2d3",
+              "id": 760,
+              "slug": "marfim-metalica"
+            },
+            {
+              "codigo": "93",
+              "descricao": "Califórnia",
+              "codigoCor": "2",
+              "descricaoCor": "Azul",
+              "codigoCorHtml": "#004e75",
+              "id": 709,
+              "slug": "azul-california"
+            },
+            {
+              "codigo": "103",
+              "descricao": "Fogo",
+              "codigoCor": "12",
+              "descricaoCor": "Vermelho",
+              "codigoCorHtml": "#7b1e26",
+              "id": 719,
+              "slug": "vermelho-fogo"
+            }
+          ],
+          "imagensTextos": {
+            "nomeComercial": "Kwid Zen 1.0 Flex MT",
+            "valorSemDesconto": "879.00",
+            "valorComDesconto": "615.30",
+            "descricao": "Com traços marcantes e curvas dinâmicas, o novo KWID tem características de SUV e espírito de compacto. O veículo recebeu o selo A do INMETRO, o que comprova que ele é o melhor da categoria em eficiência de combustível, além disso o Motor 1.0 SCe garante um menor custo de manutenção e maior vida útil do motor.",
+            "imagemDestaque": "https://wplivre.unidas.com.br/wp-content/uploads/2020/04/KwidZen1.04P.jpg",
+            "galeriaImagens": [
+              {
+                "tonalidade": {
+                  "codigo": "147",
+                  "descricao": "Neige (sólida)",
+                  "codigoCor": "4",
+                  "descricaoCor": "Branco",
+                  "codigoCorHtml": "#e3e3e3",
+                  "id": 759,
+                  "slug": "branco-neige-solida"
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/04/KwidZen1.04P.jpg"
+              },
+              {
+                "tonalidade": {
+                  "codigo": "150",
+                  "descricao": "Étoile (metálica)",
+                  "codigoCor": "9",
+                  "descricaoCor": "Prata",
+                  "codigoCorHtml": "#989898",
+                  "id": 761,
+                  "slug": "prata-etoile-metalica"
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/04/KwidZen1.04P-04.jpg"
+              },
+              {
+                "tonalidade": {
+                  "codigo": "106",
+                  "descricao": " Nacré (metálica)",
+                  "codigoCor": "10",
+                  "descricaoCor": "Preto",
+                  "codigoCorHtml": "#20201e",
+                  "id": 722,
+                  "slug": "preto-nacre"
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/04/KwidZen1.04P-03.jpg"
+              },
+              {
+                "tonalidade": {
+                  "codigo": "149",
+                  "descricao": "(metálica)",
+                  "codigoCor": "15",
+                  "descricaoCor": "Marfim",
+                  "codigoCorHtml": "#ebe2d3",
+                  "id": 760,
+                  "slug": "marfim-metalica"
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/04/KwidZen1.04P-05.jpg"
+              },
+              {
+                "tonalidade": {
+                  "codigo": "103",
+                  "descricao": "Fogo",
+                  "codigoCor": "12",
+                  "descricaoCor": "Vermelho",
+                  "codigoCorHtml": "#7b1e26",
+                  "id": 719,
+                  "slug": "vermelho-fogo"
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/04/KwidZen1.04P-02.jpg"
+              },
+              {
+                "tonalidade": {
+                  "codigo": "236",
+                  "descricao": "Ocre (metálica)",
+                  "codigoCor": "8",
+                  "descricaoCor": "Laranja",
+                  "codigoCorHtml": "#FF8E00",
+                  "id": 1397,
+                  "slug": "1397"
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/04/KwidZen1.04P-06.jpg"
+              }
+            ],
+            "seloTransparente": null
+          },
+          "codigoLocavia": "2490",
+          "relacionados": {
+            "relacaoPor": "categoria",
+            "precoPorcentagem": "20"
+          },
+          "slug": "kwid-zen-1-flex-mt",
+          "id": 146,
+          "precificacao": null,
+          "entregaMaisRapida": null,
+          "precificacaoOptions": null,
+          "codigoPromocionalValidoText": null,
+          "codigoPromocionalValido": false,
+          "esconderCupom": false,
+          "corEscolhida": null,
+          "precoTextoDesconto": null,
+          "descontoApplicado": false,
+          "inicioVigencia": "0001-01-01T00:00:00"
+        },
+        {
+          "informacoesModelo": {
+            "marca": {
+              "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/04/marca-3.png",
+              "descricao": "Jeep",
+              "ativo": true,
+              "id": 131,
+              "slug": "jeep"
+            },
+            "categoria": [
+              {
+                "nome": "SUV",
+                "idBackoffice": "10",
+                "ativo": true,
+                "id": 403,
+                "slug": "suv"
+              }
+            ],
+            "cambio": [
+              {
+                "nome": "Automático",
+                "ativo": true,
+                "id": 429,
+                "slug": "automatico"
+              }
+            ],
+            "prazoEntrega": [
+              {
+                "descricao": "Até 45 dias",
+                "valor": "45",
+                "id": 0,
+                "slug": null
+              }
+            ],
+            "itensSerie": [
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/ABS.png",
+                "idBackoffice": "2",
+                "codigo": "ABS",
+                "descricao": "Freios Abs",
+                "id": 538,
+                "slug": "freios-abs"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/TE.png",
+                "idBackoffice": "5",
+                "codigo": "TE",
+                "descricao": "Trava Elétrica",
+                "id": 541,
+                "slug": "trava-eletrica"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/VE.png",
+                "idBackoffice": "6",
+                "codigo": "VE",
+                "descricao": "Vidros Elétricos",
+                "id": 542,
+                "slug": "vidros-eletricos"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/VET.png",
+                "idBackoffice": "7",
+                "codigo": "VET",
+                "descricao": "Vidros Elétricos Traseiro",
+                "id": 543,
+                "slug": "vidros-eletricos-traseiro"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/BKL.png",
+                "idBackoffice": "8",
+                "codigo": "BKL",
+                "descricao": "Brake Ligth",
+                "id": 544,
+                "slug": "brake-ligth"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/ECT.png",
+                "idBackoffice": "9",
+                "codigo": "ECT",
+                "descricao": "Encosto Cabeça Bco Traseiro",
+                "id": 545,
+                "slug": "encosto-cabeca-bco-traseiro"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/ARM.png",
+                "idBackoffice": "11",
+                "codigo": "ARM",
+                "descricao": "Alarme",
+                "id": 547,
+                "slug": "alarme"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/KIT.png",
+                "idBackoffice": "13",
+                "codigo": "KIT",
+                "descricao": "Kit Visibilidade",
+                "id": 549,
+                "slug": "kit-visibilidade"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/AUT.png",
+                "idBackoffice": "15",
+                "codigo": "AUT",
+                "descricao": "Câmbio Automático",
+                "id": 550,
+                "slug": "cambio-automatico"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/FNE.png",
+                "idBackoffice": "16",
+                "codigo": "FNE",
+                "descricao": "Farol de Neblina",
+                "id": 551,
+                "slug": "farol-de-neblina"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/BCO.png",
+                "idBackoffice": "17",
+                "codigo": "BCO",
+                "descricao": "Banco de Couro",
+                "id": 552,
+                "slug": "banco-de-couro"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/RLL.png",
+                "idBackoffice": "19",
+                "codigo": "RLL",
+                "descricao": "Roda Liga Leve",
+                "id": 554,
+                "slug": "roda-liga-leve"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/REL.png",
+                "idBackoffice": "20",
+                "codigo": "REL",
+                "descricao": "Retrovisor Elétrico",
+                "id": 555,
+                "slug": "retrovisor-eletrico"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/KMU.png",
+                "idBackoffice": "24",
+                "codigo": "KMU",
+                "descricao": "Kit Multimidia",
+                "id": 558,
+                "slug": "kit-multimidia"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/SES.png",
+                "idBackoffice": "26",
+                "codigo": "SES",
+                "descricao": "Sensor de Estacionamento",
+                "id": 560,
+                "slug": "sensor-de-estacionamento"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/PA.png",
+                "idBackoffice": "27",
+                "codigo": "PA",
+                "descricao": "Piloto Automático",
+                "id": 561,
+                "slug": "piloto-automatico"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/ARD.png",
+                "idBackoffice": "30",
+                "codigo": "ARD",
+                "descricao": "Ar Condicionado Digital",
+                "id": 565,
+                "slug": "ar-condicionado-digital"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/DE.png",
+                "idBackoffice": "32",
+                "codigo": "DE",
+                "descricao": "Direção Elétrica",
+                "id": 567,
+                "slug": "direcao-eletrica"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/CTR.png",
+                "idBackoffice": "36",
+                "codigo": "CTR",
+                "descricao": "Controle de Tração",
+                "id": 570,
+                "slug": "controle-de-tracao"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/BAG.png",
+                "idBackoffice": "40",
+                "codigo": "BAG",
+                "descricao": "BAG",
+                "id": 573,
+                "slug": "bag"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/VCO.png",
+                "idBackoffice": "43",
+                "codigo": "VCO",
+                "descricao": "Volante em Couro",
+                "id": 574,
+                "slug": "volante-em-couro"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/CBO.png",
+                "idBackoffice": "45",
+                "codigo": "CBO",
+                "descricao": "Computador de Bordo",
+                "id": 575,
+                "slug": "computador-de-bordo"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/CCA.png",
+                "idBackoffice": "47",
+                "codigo": "CCA",
+                "descricao": "Chave Canivete",
+                "id": 577,
+                "slug": "chave-canivete"
+              }
+            ],
+            "inicioVigencia": "0001-01-01T00:00:00",
+            "ativo": true
+          },
+          "servicosOpcionais": null,
+          "promocao": {
+            "ativo": true,
+            "infoPromocao": {
+              "titulo": "50%OFF",
+              "descricaoCatalogo": "Assine por 48 meses e pague R$889,50 nos 8 primeiros meses e R$1779 do 9º ao 48º mês",
+              "descricaoDetalhada": "Assine por 48 meses e pague R$889,50 nos 8 primeiros meses e R$1779 do 9º ao 48º mês",
+              "precoDetalhado": "Da 1ª até a 8ª parcela por R$889.50/mês, da 9ª até a última parcela por R$1779.00/mês "
+            }
+          },
+          "checkEntregaRapida": false,
+          "tonalidades": [
+            {
+              "codigo": "10",
+              "descricao": "Ambiente (sólida)",
+              "codigoCor": "4",
+              "descricaoCor": "Branca",
+              "codigoCorHtml": "#ffffff",
+              "id": 622,
+              "slug": "branca-ambiente-solida"
+            },
+            {
+              "codigo": "9",
+              "descricao": "Recon (sólida)",
+              "codigoCor": "11",
+              "descricaoCor": "Verde",
+              "codigoCorHtml": "#22291d",
+              "id": 621,
+              "slug": "verde-recon-solida"
+            },
+            {
+              "codigo": "2",
+              "descricao": "Carbon (metálica)",
+              "codigoCor": "10",
+              "descricaoCor": "Preto",
+              "codigoCorHtml": "#000000",
+              "id": 614,
+              "slug": "preta-carbon"
+            },
+            {
+              "codigo": "34",
+              "descricao": "Antique (metálica)",
+              "codigoCor": "5",
+              "descricaoCor": "Cinza",
+              "codigoCorHtml": "#4f5251",
+              "id": 648,
+              "slug": "cinza-antique"
+            },
+            {
+              "codigo": "31",
+              "descricao": "Tribal (metálica)",
+              "codigoCor": "12",
+              "descricaoCor": "Vermelho",
+              "codigoCorHtml": "#951b1b",
+              "id": 645,
+              "slug": "vermelho-tribal"
+            },
+            {
+              "codigo": "140",
+              "descricao": "Billet (metálica)",
+              "codigoCor": "9",
+              "descricaoCor": "Prata",
+              "codigoCorHtml": "#838285",
+              "id": 1615,
+              "slug": "prata-billet-metalica"
+            },
+            {
+              "codigo": "141",
+              "descricao": "Jazz Blue (metálica)",
+              "codigoCor": "2",
+              "descricaoCor": "Azul",
+              "codigoCorHtml": "#2a4459",
+              "id": 1616,
+              "slug": "azul-jazz-metalica"
+            },
+            {
+              "codigo": "15",
+              "descricao": "Polar (perolizada)",
+              "codigoCor": "4",
+              "descricaoCor": "Branca",
+              "codigoCorHtml": "#e2e1dc",
+              "id": 628,
+              "slug": "branca-polar-perolizada"
+            }
+          ],
+          "imagensTextos": {
+            "nomeComercial": "Renegade Longitude Flex 4x2 AT 1.8 4P",
+            "valorSemDesconto": "1779.00",
+            "valorComDesconto": "889.50",
+            "descricao": "O Jeep Renegade é um dos símbolos do DNA Jeep. O seu design atualizou e agora a sua grade frontal passou por uma reestilização e está mais marcante no Jeep Renegate. Um design icônico, junto com os vários sistemas que trabalham para melhor eficiência e grandes tecnologias internas.",
+            "imagemDestaque": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/RenegadeLongitudeFlex4x2AT1.84P.jpg",
+            "galeriaImagens": [
+              {
+                "tonalidade": {
+                  "codigo": "10",
+                  "descricao": "Ambiente (sólida)",
+                  "codigoCor": "4",
+                  "descricaoCor": "Branca",
+                  "codigoCorHtml": "#ffffff",
+                  "id": 622,
+                  "slug": "branca-ambiente-solida"
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/RenegadeLongitudeFlex4x2AT1.84P.jpg"
+              },
+              {
+                "tonalidade": {
+                  "codigo": "9",
+                  "descricao": "Recon (sólida)",
+                  "codigoCor": "11",
+                  "descricaoCor": "Verde",
+                  "codigoCorHtml": "#22291d",
+                  "id": 621,
+                  "slug": "verde-recon-solida"
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/RenegadeLongitudeFlex4x2AT1.84P-02.jpg"
+              },
+              {
+                "tonalidade": {
+                  "codigo": "2",
+                  "descricao": "Carbon (metálica)",
+                  "codigoCor": "10",
+                  "descricaoCor": "Preto",
+                  "codigoCorHtml": "#000000",
+                  "id": 614,
+                  "slug": "preta-carbon"
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/RenegadeLongitudeFlex4x2AT1.84P-08.jpg"
+              },
+              {
+                "tonalidade": {
+                  "codigo": "34",
+                  "descricao": "Antique (metálica)",
+                  "codigoCor": "5",
+                  "descricaoCor": "Cinza",
+                  "codigoCorHtml": "#4f5251",
+                  "id": 648,
+                  "slug": "cinza-antique"
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/RenegadeLongitudeFlex4x2AT1.84P-03.jpg"
+              },
+              {
+                "tonalidade": {
+                  "codigo": "140",
+                  "descricao": "Billet (metálica)",
+                  "codigoCor": "9",
+                  "descricaoCor": "Prata",
+                  "codigoCorHtml": "#838285",
+                  "id": 1615,
+                  "slug": "prata-billet-metalica"
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/RenegadeLongitudeFlex4x2AT1.84P-04.jpg"
+              },
+              {
+                "tonalidade": {
+                  "codigo": "31",
+                  "descricao": "Tribal (metálica)",
+                  "codigoCor": "12",
+                  "descricaoCor": "Vermelho",
+                  "codigoCorHtml": "#951b1b",
+                  "id": 645,
+                  "slug": "vermelho-tribal"
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/RenegadeLongitudeFlex4x2AT1.84P-05.jpg"
+              },
+              {
+                "tonalidade": {
+                  "codigo": "141",
+                  "descricao": "Jazz Blue (metálica)",
+                  "codigoCor": "2",
+                  "descricaoCor": "Azul",
+                  "codigoCorHtml": "#2a4459",
+                  "id": 1616,
+                  "slug": "azul-jazz-metalica"
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/RenegadeLongitudeFlex4x2AT1.84P-07.jpg"
+              },
+              {
+                "tonalidade": {
+                  "codigo": "15",
+                  "descricao": "Polar (perolizada)",
+                  "codigoCor": "4",
+                  "descricaoCor": "Branca",
+                  "codigoCorHtml": "#e2e1dc",
+                  "id": 628,
+                  "slug": "branca-polar-perolizada"
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/RenegadeLongitudeFlex4x2AT1.84P-06.jpg"
+              },
+              {
+                "tonalidade": {
+                  "codigo": null,
+                  "descricao": null,
+                  "codigoCor": null,
+                  "descricaoCor": null,
+                  "codigoCorHtml": null,
+                  "id": 0,
+                  "slug": null
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/RenegadeLongitudeFlex4x2AT1.84P-09.jpg"
+              },
+              {
+                "tonalidade": {
+                  "codigo": null,
+                  "descricao": null,
+                  "codigoCor": null,
+                  "descricaoCor": null,
+                  "codigoCorHtml": null,
+                  "id": 0,
+                  "slug": null
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/RenegadeLongitudeFlex4x2AT1.84P-10.jpg"
+              },
+              {
+                "tonalidade": {
+                  "codigo": null,
+                  "descricao": null,
+                  "codigoCor": null,
+                  "descricaoCor": null,
+                  "codigoCorHtml": null,
+                  "id": 0,
+                  "slug": null
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/RenegadeLongitudeFlex4x2AT1.84P-11.jpg"
+              },
+              {
+                "tonalidade": {
+                  "codigo": null,
+                  "descricao": null,
+                  "codigoCor": null,
+                  "descricaoCor": null,
+                  "codigoCorHtml": null,
+                  "id": 0,
+                  "slug": null
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/RenegadeLongitudeFlex4x2AT1.84P-12.jpg"
+              }
+            ],
+            "seloTransparente": null
+          },
+          "codigoLocavia": "2023",
+          "relacionados": {
+            "relacaoPor": "categoria",
+            "precoPorcentagem": ""
+          },
+          "slug": "renegade-longitude-flex-4x2-at-1-8-4p",
+          "id": 439,
+          "precificacao": null,
+          "entregaMaisRapida": null,
+          "precificacaoOptions": null,
+          "codigoPromocionalValidoText": null,
+          "codigoPromocionalValido": false,
+          "esconderCupom": false,
+          "corEscolhida": null,
+          "precoTextoDesconto": null,
+          "descontoApplicado": false,
+          "inicioVigencia": "0001-01-01T00:00:00"
+        },
+        {
+          "informacoesModelo": {
+            "marca": {
+              "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/04/marca-3.png",
+              "descricao": "Jeep",
+              "ativo": true,
+              "id": 131,
+              "slug": "jeep"
+            },
+            "categoria": [
+              {
+                "nome": "SUV",
+                "idBackoffice": "10",
+                "ativo": true,
+                "id": 403,
+                "slug": "suv"
+              }
+            ],
+            "cambio": [
+              {
+                "nome": "Automático",
+                "ativo": true,
+                "id": 429,
+                "slug": "automatico"
+              }
+            ],
+            "prazoEntrega": [
+              {
+                "descricao": "Até 45 dias",
+                "valor": "45",
+                "id": 0,
+                "slug": null
+              }
+            ],
+            "itensSerie": [
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/ABS.png",
+                "idBackoffice": "2",
+                "codigo": "ABS",
+                "descricao": "Freios Abs",
+                "id": 538,
+                "slug": "freios-abs"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/TE.png",
+                "idBackoffice": "5",
+                "codigo": "TE",
+                "descricao": "Trava Elétrica",
+                "id": 541,
+                "slug": "trava-eletrica"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/VE.png",
+                "idBackoffice": "6",
+                "codigo": "VE",
+                "descricao": "Vidros Elétricos",
+                "id": 542,
+                "slug": "vidros-eletricos"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/VET.png",
+                "idBackoffice": "7",
+                "codigo": "VET",
+                "descricao": "Vidros Elétricos Traseiro",
+                "id": 543,
+                "slug": "vidros-eletricos-traseiro"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/BKL.png",
+                "idBackoffice": "8",
+                "codigo": "BKL",
+                "descricao": "Brake Ligth",
+                "id": 544,
+                "slug": "brake-ligth"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/ECT.png",
+                "idBackoffice": "9",
+                "codigo": "ECT",
+                "descricao": "Encosto Cabeça Bco Traseiro",
+                "id": 545,
+                "slug": "encosto-cabeca-bco-traseiro"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/ARM.png",
+                "idBackoffice": "11",
+                "codigo": "ARM",
+                "descricao": "Alarme",
+                "id": 547,
+                "slug": "alarme"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/KIT.png",
+                "idBackoffice": "13",
+                "codigo": "KIT",
+                "descricao": "Kit Visibilidade",
+                "id": 549,
+                "slug": "kit-visibilidade"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/AUT.png",
+                "idBackoffice": "15",
+                "codigo": "AUT",
+                "descricao": "Câmbio Automático",
+                "id": 550,
+                "slug": "cambio-automatico"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/FNE.png",
+                "idBackoffice": "16",
+                "codigo": "FNE",
+                "descricao": "Farol de Neblina",
+                "id": 551,
+                "slug": "farol-de-neblina"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/RLL.png",
+                "idBackoffice": "19",
+                "codigo": "RLL",
+                "descricao": "Roda Liga Leve",
+                "id": 554,
+                "slug": "roda-liga-leve"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/REL.png",
+                "idBackoffice": "20",
+                "codigo": "REL",
+                "descricao": "Retrovisor Elétrico",
+                "id": 555,
+                "slug": "retrovisor-eletrico"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/GPS.png",
+                "idBackoffice": "23",
+                "codigo": "GPS",
+                "descricao": "GPS",
+                "id": 557,
+                "slug": "gps"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/KMU.png",
+                "idBackoffice": "24",
+                "codigo": "KMU",
+                "descricao": "Kit Multimidia",
+                "id": 558,
+                "slug": "kit-multimidia"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/SES.png",
+                "idBackoffice": "26",
+                "codigo": "SES",
+                "descricao": "Sensor de Estacionamento",
+                "id": 560,
+                "slug": "sensor-de-estacionamento"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/PA.png",
+                "idBackoffice": "27",
+                "codigo": "PA",
+                "descricao": "Piloto Automático",
+                "id": 561,
+                "slug": "piloto-automatico"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/ARD.png",
+                "idBackoffice": "30",
+                "codigo": "ARD",
+                "descricao": "Ar Condicionado Digital",
+                "id": 565,
+                "slug": "ar-condicionado-digital"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/DE.png",
+                "idBackoffice": "32",
+                "codigo": "DE",
+                "descricao": "Direção Elétrica",
+                "id": 567,
+                "slug": "direcao-eletrica"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/CTR.png",
+                "idBackoffice": "36",
+                "codigo": "CTR",
+                "descricao": "Controle de Tração",
+                "id": 570,
+                "slug": "controle-de-tracao"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/BAG.png",
+                "idBackoffice": "40",
+                "codigo": "BAG",
+                "descricao": "BAG",
+                "id": 573,
+                "slug": "bag"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/VCO.png",
+                "idBackoffice": "43",
+                "codigo": "VCO",
+                "descricao": "Volante em Couro",
+                "id": 574,
+                "slug": "volante-em-couro"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/CBO.png",
+                "idBackoffice": "45",
+                "codigo": "CBO",
+                "descricao": "Computador de Bordo",
+                "id": 575,
+                "slug": "computador-de-bordo"
+              }
+            ],
+            "inicioVigencia": "0001-01-01T00:00:00",
+            "ativo": true
+          },
+          "servicosOpcionais": null,
+          "promocao": {
+            "ativo": true,
+            "infoPromocao": {
+              "titulo": "50%OFF",
+              "descricaoCatalogo": "Assine por 48 meses e pague R$1.159,50 nos 8 primeiros meses e R$2.319,00 do 9º ao 48º mês",
+              "descricaoDetalhada": "Assine por 48 meses e pague R$1159,50 nos 8 primeiros meses e R$2319 do 9º ao 48ºmês",
+              "precoDetalhado": "Da 1ª até a 8ª parcela por R$1159.50/mês, da 9ª até a última parcela por R$2319.00/mês "
+            }
+          },
+          "checkEntregaRapida": false,
+          "tonalidades": [
+            {
+              "codigo": "10",
+              "descricao": "Ambiente (sólida)",
+              "codigoCor": "4",
+              "descricaoCor": "Branca",
+              "codigoCorHtml": "#ffffff",
+              "id": 622,
+              "slug": "branca-ambiente-solida"
+            },
+            {
+              "codigo": "9",
+              "descricao": "Recon (sólida)",
+              "codigoCor": "11",
+              "descricaoCor": "Verde",
+              "codigoCorHtml": "#22291d",
+              "id": 621,
+              "slug": "verde-recon-solida"
+            },
+            {
+              "codigo": "2",
+              "descricao": "Carbon (metálica)",
+              "codigoCor": "10",
+              "descricaoCor": "Preto",
+              "codigoCorHtml": "#000000",
+              "id": 614,
+              "slug": "preta-carbon"
+            },
+            {
+              "codigo": "34",
+              "descricao": "Antique (metálica)",
+              "codigoCor": "5",
+              "descricaoCor": "Cinza",
+              "codigoCorHtml": "#4f5251",
+              "id": 648,
+              "slug": "cinza-antique"
+            },
+            {
+              "codigo": "140",
+              "descricao": "Billet (metálica)",
+              "codigoCor": "9",
+              "descricaoCor": "Prata",
+              "codigoCorHtml": "#838285",
+              "id": 1615,
+              "slug": "prata-billet-metalica"
+            },
+            {
+              "codigo": "141",
+              "descricao": "Jazz Blue (metálica)",
+              "codigoCor": "2",
+              "descricaoCor": "Azul",
+              "codigoCorHtml": "#2a4459",
+              "id": 1616,
+              "slug": "azul-jazz-metalica"
+            },
+            {
+              "codigo": "15",
+              "descricao": "Polar (perolizada)",
+              "codigoCor": "4",
+              "descricaoCor": "Branca",
+              "codigoCorHtml": "#e2e1dc",
+              "id": 628,
+              "slug": "branca-polar-perolizada"
+            }
+          ],
+          "imagensTextos": {
+            "nomeComercial": "Compass Longitude Flex 4x2 AT 2.0 4P",
+            "valorSemDesconto": "2319.00",
+            "valorComDesconto": "1159.50",
+            "descricao": "O Jeep Compass é um SUV para família que combina sofisticação e conforto. Com um design global, mas ainda com o espírito Jeep, o Compass estampa autenticidade. Ele tem grandes tecnologias em seu exterior e suas rodas de liga leve. Um autêntico Jeep, para grandes famílias.",
+            "imagemDestaque": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/CompassLongitudeFlex4x2AT2.04P.jpg",
+            "galeriaImagens": [
+              {
+                "tonalidade": {
+                  "codigo": "10",
+                  "descricao": "Ambiente (sólida)",
+                  "codigoCor": "4",
+                  "descricaoCor": "Branca",
+                  "codigoCorHtml": "#ffffff",
+                  "id": 622,
+                  "slug": "branca-ambiente-solida"
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/CompassLongitudeFlex4x2AT2.04P.jpg"
+              },
+              {
+                "tonalidade": {
+                  "codigo": "9",
+                  "descricao": "Recon (sólida)",
+                  "codigoCor": "11",
+                  "descricaoCor": "Verde",
+                  "codigoCorHtml": "#22291d",
+                  "id": 621,
+                  "slug": "verde-recon-solida"
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/CompassLongitudeFlex4x2AT2.04P-02.jpg"
+              },
+              {
+                "tonalidade": {
+                  "codigo": "34",
+                  "descricao": "Antique (metálica)",
+                  "codigoCor": "5",
+                  "descricaoCor": "Cinza",
+                  "codigoCorHtml": "#4f5251",
+                  "id": 648,
+                  "slug": "cinza-antique"
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/CompassLongitudeFlex4x2AT2.04P-03.jpg"
+              },
+              {
+                "tonalidade": {
+                  "codigo": "140",
+                  "descricao": "Billet (metálica)",
+                  "codigoCor": "9",
+                  "descricaoCor": "Prata",
+                  "codigoCorHtml": "#838285",
+                  "id": 1615,
+                  "slug": "prata-billet-metalica"
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/CompassLongitudeFlex4x2AT2.04P-04.jpg"
+              },
+              {
+                "tonalidade": {
+                  "codigo": "141",
+                  "descricao": "Jazz Blue (metálica)",
+                  "codigoCor": "2",
+                  "descricaoCor": "Azul",
+                  "codigoCorHtml": "#2a4459",
+                  "id": 1616,
+                  "slug": "azul-jazz-metalica"
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/CompassLongitudeFlex4x2AT2.04P-05.jpg"
+              },
+              {
+                "tonalidade": {
+                  "codigo": "2",
+                  "descricao": "Carbon (metálica)",
+                  "codigoCor": "10",
+                  "descricaoCor": "Preto",
+                  "codigoCorHtml": "#000000",
+                  "id": 614,
+                  "slug": "preta-carbon"
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/CompassLongitudeFlex4x2AT2.04P-06.jpg"
+              },
+              {
+                "tonalidade": {
+                  "codigo": "15",
+                  "descricao": "Polar (perolizada)",
+                  "codigoCor": "4",
+                  "descricaoCor": "Branca",
+                  "codigoCorHtml": "#e2e1dc",
+                  "id": 628,
+                  "slug": "branca-polar-perolizada"
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/CompassLongitudeFlex4x2AT2.04P-07.jpg"
+              },
+              {
+                "tonalidade": {
+                  "codigo": null,
+                  "descricao": null,
+                  "codigoCor": null,
+                  "descricaoCor": null,
+                  "codigoCorHtml": null,
+                  "id": 0,
+                  "slug": null
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/CompassLongitudeFlex4x2AT2.04P-08.jpg"
+              },
+              {
+                "tonalidade": {
+                  "codigo": null,
+                  "descricao": null,
+                  "codigoCor": null,
+                  "descricaoCor": null,
+                  "codigoCorHtml": null,
+                  "id": 0,
+                  "slug": null
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/CompassLongitudeFlex4x2AT2.04P-09.jpg"
+              },
+              {
+                "tonalidade": {
+                  "codigo": null,
+                  "descricao": null,
+                  "codigoCor": null,
+                  "descricaoCor": null,
+                  "codigoCorHtml": null,
+                  "id": 0,
+                  "slug": null
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/CompassLongitudeFlex4x2AT2.04P-10.jpg"
+              },
+              {
+                "tonalidade": {
+                  "codigo": null,
+                  "descricao": null,
+                  "codigoCor": null,
+                  "descricaoCor": null,
+                  "codigoCorHtml": null,
+                  "id": 0,
+                  "slug": null
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/CompassLongitudeFlex4x2AT2.04P-11.jpg"
+              }
+            ],
+            "seloTransparente": null
+          },
+          "codigoLocavia": "2364",
+          "relacionados": {
+            "relacaoPor": "categoria",
+            "precoPorcentagem": ""
+          },
+          "slug": "compass-longitude-flex-4x2-at-2-0-4p",
+          "id": 441,
+          "precificacao": null,
+          "entregaMaisRapida": null,
+          "precificacaoOptions": null,
+          "codigoPromocionalValidoText": null,
+          "codigoPromocionalValido": false,
+          "esconderCupom": false,
+          "corEscolhida": null,
+          "precoTextoDesconto": null,
+          "descontoApplicado": false,
+          "inicioVigencia": "0001-01-01T00:00:00"
+        },
+        {
+          "informacoesModelo": {
+            "marca": {
+              "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/04/marca-2.png",
+              "descricao": "Renault",
+              "ativo": true,
+              "id": 130,
+              "slug": "renault"
+            },
+            "categoria": [
+              {
+                "nome": "SUV",
+                "idBackoffice": "10",
+                "ativo": true,
+                "id": 403,
+                "slug": "suv"
+              }
+            ],
+            "cambio": [
+              {
+                "nome": "Automático",
+                "ativo": true,
+                "id": 429,
+                "slug": "automatico"
+              }
+            ],
+            "prazoEntrega": [
+              {
+                "descricao": "Até 75 dias",
+                "valor": "75",
+                "id": 0,
+                "slug": null
+              },
+              {
+                "descricao": "Entrega mais Rápida",
+                "valor": "-1",
+                "id": 0,
+                "slug": null
+              }
+            ],
+            "itensSerie": [
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/ABS.png",
+                "idBackoffice": "2",
+                "codigo": "ABS",
+                "descricao": "Freios Abs",
+                "id": 538,
+                "slug": "freios-abs"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/TE.png",
+                "idBackoffice": "5",
+                "codigo": "TE",
+                "descricao": "Trava Elétrica",
+                "id": 541,
+                "slug": "trava-eletrica"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/VE.png",
+                "idBackoffice": "6",
+                "codigo": "VE",
+                "descricao": "Vidros Elétricos",
+                "id": 542,
+                "slug": "vidros-eletricos"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/VET.png",
+                "idBackoffice": "7",
+                "codigo": "VET",
+                "descricao": "Vidros Elétricos Traseiro",
+                "id": 543,
+                "slug": "vidros-eletricos-traseiro"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/BKL.png",
+                "idBackoffice": "8",
+                "codigo": "BKL",
+                "descricao": "Brake Ligth",
+                "id": 544,
+                "slug": "brake-ligth"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/ECT.png",
+                "idBackoffice": "9",
+                "codigo": "ECT",
+                "descricao": "Encosto Cabeça Bco Traseiro",
+                "id": 545,
+                "slug": "encosto-cabeca-bco-traseiro"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/ARM.png",
+                "idBackoffice": "11",
+                "codigo": "ARM",
+                "descricao": "Alarme",
+                "id": 547,
+                "slug": "alarme"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/KIT.png",
+                "idBackoffice": "13",
+                "codigo": "KIT",
+                "descricao": "Kit Visibilidade",
+                "id": 549,
+                "slug": "kit-visibilidade"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/AUT.png",
+                "idBackoffice": "15",
+                "codigo": "AUT",
+                "descricao": "Câmbio Automático",
+                "id": 550,
+                "slug": "cambio-automatico"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/FNE.png",
+                "idBackoffice": "16",
+                "codigo": "FNE",
+                "descricao": "Farol de Neblina",
+                "id": 551,
+                "slug": "farol-de-neblina"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/RLL.png",
+                "idBackoffice": "19",
+                "codigo": "RLL",
+                "descricao": "Roda Liga Leve",
+                "id": 554,
+                "slug": "roda-liga-leve"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/REL.png",
+                "idBackoffice": "20",
+                "codigo": "REL",
+                "descricao": "Retrovisor Elétrico",
+                "id": 555,
+                "slug": "retrovisor-eletrico"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/RER.png",
+                "idBackoffice": "21",
+                "codigo": "RER",
+                "descricao": "Rebatimento Elétrico Retrovisor",
+                "id": 556,
+                "slug": "rebatimento-eletrico-retrovisor"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/KMU.png",
+                "idBackoffice": "24",
+                "codigo": "KMU",
+                "descricao": "Kit Multimidia",
+                "id": 558,
+                "slug": "kit-multimidia"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/SCH.png",
+                "idBackoffice": "25",
+                "codigo": "SCH",
+                "descricao": "Sensor de Chuva",
+                "id": 559,
+                "slug": "sensor-de-chuva"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/SES.png",
+                "idBackoffice": "26",
+                "codigo": "SES",
+                "descricao": "Sensor de Estacionamento",
+                "id": 560,
+                "slug": "sensor-de-estacionamento"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/PA.png",
+                "idBackoffice": "27",
+                "codigo": "PA",
+                "descricao": "Piloto Automático",
+                "id": 561,
+                "slug": "piloto-automatico"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/ARD.png",
+                "idBackoffice": "30",
+                "codigo": "ARD",
+                "descricao": "Ar Condicionado Digital",
+                "id": 565,
+                "slug": "ar-condicionado-digital"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/DE.png",
+                "idBackoffice": "32",
+                "codigo": "DE",
+                "descricao": "Direção Elétrica",
+                "id": 567,
+                "slug": "direcao-eletrica"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/CTR.png",
+                "idBackoffice": "36",
+                "codigo": "CTR",
+                "descricao": "Controle de Tração",
+                "id": 570,
+                "slug": "controle-de-tracao"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/BAG.png",
+                "idBackoffice": "40",
+                "codigo": "BAG",
+                "descricao": "BAG",
+                "id": 573,
+                "slug": "bag"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/VCO.png",
+                "idBackoffice": "43",
+                "codigo": "VCO",
+                "descricao": "Volante em Couro",
+                "id": 574,
+                "slug": "volante-em-couro"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/CBO.png",
+                "idBackoffice": "45",
+                "codigo": "CBO",
+                "descricao": "Computador de Bordo",
+                "id": 575,
+                "slug": "computador-de-bordo"
+              },
+              {
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/SBA.png",
+                "idBackoffice": "46",
+                "codigo": "SBA",
+                "descricao": "Side Bag",
+                "id": 576,
+                "slug": "side-bag"
+              }
+            ],
+            "inicioVigencia": "0001-01-01T00:00:00",
+            "ativo": true
+          },
+          "servicosOpcionais": null,
+          "promocao": {
+            "ativo": true,
+            "infoPromocao": {
+              "titulo": "SUPER PREÇO BAIXO",
+              "descricaoCatalogo": "Você pode ter uma Captur novinha a partir de R$1.489,00 no plano de 48 meses. Aproveite!!!",
+              "descricaoDetalhada": "Você pode ter uma Captur novinha a partir de R$1.489,00 no plano de 48 meses. Aproveite!!!",
+              "precoDetalhado": "Da 1ª até a última parcela por R$1489.00/mês "
+            }
+          },
+          "checkEntregaRapida": true,
+          "tonalidades": [
+            {
+              "codigo": "180",
+              "descricao": "Marfim (com teto Preto Nacré)",
+              "codigoCor": "15",
+              "descricaoCor": "Marfim",
+              "codigoCorHtml": "#f2eddd",
+              "id": 1575,
+              "slug": "marfim-com-teto-preto-nacre"
+            },
+            {
+              "codigo": "209",
+              "descricao": "Fogo (com teto Preto Nacré)",
+              "codigoCor": "12",
+              "descricaoCor": "Vermelho",
+              "codigoCorHtml": "#7b1e26",
+              "id": 1576,
+              "slug": "vermelho-fogo-com-teto-preto-nacre"
+            },
+            {
+              "codigo": "208",
+              "descricao": "Étoile (com teto Preto Nacré)",
+              "codigoCor": "9",
+              "descricaoCor": "Prata",
+              "codigoCorHtml": "#bbbbbd",
+              "id": 1577,
+              "slug": "prata-etoile-com-teto-preto-nacre"
+            },
+            {
+              "codigo": "210",
+              "descricao": "Glacier (com teto Preto Nacré)",
+              "codigoCor": "4",
+              "descricaoCor": "Branco",
+              "codigoCorHtml": "#c7c7c7",
+              "id": 1578,
+              "slug": "branco-glacier-com-teto-preto-nacre"
+            }
+          ],
+          "imagensTextos": {
+            "nomeComercial": "Captur Intense AT 1.6 SCe X-TRONIC CVT",
+            "valorSemDesconto": "1489.00",
+            "valorComDesconto": "1489.00",
+            "descricao": "Design, conforto e tecnologia, essas são as essências do Captur Intense. O seu design marcante e sofisticado, com pintura biton, lhe proporcionou o prêmio de melhor design na categoria SUV. A suas tecnologias de câmera de ré, sensores de estacionamento e conectividade se unem com o maior espaço interno do segmento. Isso é o Captur e ele vai capturar você.\r\n",
+            "imagemDestaque": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/CapturIntense1.6.png",
+            "galeriaImagens": [
+              {
+                "tonalidade": {
+                  "codigo": "210",
+                  "descricao": "Glacier (com teto Preto Nacré)",
+                  "codigoCor": "4",
+                  "descricaoCor": "Branco",
+                  "codigoCorHtml": "#c7c7c7",
+                  "id": 1578,
+                  "slug": "branco-glacier-com-teto-preto-nacre"
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/CapturIntense1.6-06.png"
+              },
+              {
+                "tonalidade": {
+                  "codigo": "208",
+                  "descricao": "Étoile (com teto Preto Nacré)",
+                  "codigoCor": "9",
+                  "descricaoCor": "Prata",
+                  "codigoCorHtml": "#bbbbbd",
+                  "id": 1577,
+                  "slug": "prata-etoile-com-teto-preto-nacre"
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/CapturIntense1.6-07.png"
+              },
+              {
+                "tonalidade": {
+                  "codigo": "180",
+                  "descricao": "Marfim (com teto Preto Nacré)",
+                  "codigoCor": "15",
+                  "descricaoCor": "Marfim",
+                  "codigoCorHtml": "#f2eddd",
+                  "id": 1575,
+                  "slug": "marfim-com-teto-preto-nacre"
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/CapturIntense1.6-09.png"
+              },
+              {
+                "tonalidade": {
+                  "codigo": "209",
+                  "descricao": "Fogo (com teto Preto Nacré)",
+                  "codigoCor": "12",
+                  "descricaoCor": "Vermelho",
+                  "codigoCorHtml": "#7b1e26",
+                  "id": 1576,
+                  "slug": "vermelho-fogo-com-teto-preto-nacre"
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/CapturIntense1.6-10.png"
+              },
+              {
+                "tonalidade": {
+                  "codigo": null,
+                  "descricao": null,
+                  "codigoCor": null,
+                  "descricaoCor": null,
+                  "codigoCorHtml": null,
+                  "id": 0,
+                  "slug": null
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/CapturIntense1.6-11-1.png"
+              },
+              {
+                "tonalidade": {
+                  "codigo": null,
+                  "descricao": null,
+                  "codigoCor": null,
+                  "descricaoCor": null,
+                  "codigoCorHtml": null,
+                  "id": 0,
+                  "slug": null
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/CapturIntense1.6-12-1.png"
+              },
+              {
+                "tonalidade": {
+                  "codigo": null,
+                  "descricao": null,
+                  "codigoCor": null,
+                  "descricaoCor": null,
+                  "codigoCorHtml": null,
+                  "id": 0,
+                  "slug": null
+                },
+                "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/05/CapturIntense1.6-13-1.png"
+              }
+            ],
+            "seloTransparente": null
+          },
+          "codigoLocavia": "2519",
+          "relacionados": {
+            "relacaoPor": "",
+            "precoPorcentagem": ""
+          },
+          "slug": "captur-intense-1-6-16v-flex-5p-aut",
+          "id": 343,
+          "precificacao": null,
+          "entregaMaisRapida": null,
+          "precificacaoOptions": null,
+          "codigoPromocionalValidoText": null,
+          "codigoPromocionalValido": false,
+          "esconderCupom": false,
+          "corEscolhida": null,
+          "precoTextoDesconto": null,
+          "descontoApplicado": false,
+          "inicioVigencia": "0001-01-01T00:00:00"
+        }
+      ],
+      "depoimentos": {
+        "descricao": "O que andam falando sobre o Livre",
+        "depoimentos": [
+          {
+            "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/04/marcos-ferreira.png",
+            "descricao": "O dinheiro que eu gastaria comprando um carro, eu investi no meu negócio. E o melhor, continuo com a mesma qualidade de vida. Perfeito!",
+            "nomeCliente": "Marcos Ferreira",
+            "tipoCliente": "Cliente Livre",
+            "id": 165,
+            "slug": "marcos-ferreira"
+          },
+          {
+            "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/04/sergio-tavares.png",
+            "descricao": "Fiz a conta no lápis. Ter um carro zero é muito caro. Além da desvalorização, tem um monte de taxas. Alugar um carro por um ano ou dois é genial e econômico.",
+            "nomeCliente": "Sérgio Tavares",
+            "tipoCliente": "Cliente Livre",
+            "id": 166,
+            "slug": "sergio-tavares"
+          },
+          {
+            "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/04/juliana-aquino.png",
+            "descricao": "A melhor experiência que tive nos últimos meses. O melhor de tudo foi ver o juros a meu favor com o dinheiro que economizei com o Livre.",
+            "nomeCliente": "Juliana Aquino",
+            "tipoCliente": "Cliente Livre",
+            "id": 161,
+            "slug": "juliana-aquino"
+          }
+        ]
+      },
+      "algumasVantagens": [
+        {
+          "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/07/Imagem04-1.png",
+          "titulo": "Carro zero sempre",
+          "tituloMobile": "",
+          "descricao": "<p>Você decide o modelo e nós entregamos o veículo pronto para uso. Com o Livre, você aproveita a vida de carro com cheirinho de novo.</p>\n<p><strong>É você <span style=\"color: #2f80ed;\">Livre</span> para curtir o seu carro!</strong></p>\n"
+        },
+        {
+          "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/07/Imagem02.png",
+          "titulo": "Sem buro-<br>cracia",
+          "tituloMobile": "Sem burocracia",
+          "descricao": "<p>Ter uma assinatura <strong><span style=\"color: #2f80ed;\">Livre </span></strong>é viver despreocupado com documentação, IPVA, licenciamento, DPVAT, emplacamento, proteção e manutenções preventivas sem perder na qualidade do carro.</p>\n<p><strong>Vem logo ser <span style=\"color: #2f80ed;\">Livre</span>!</strong></p>\n"
+        },
+        {
+          "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/07/Imagem03.png",
+          "titulo": "Mais moto-<br>ristas",
+          "tituloMobile": "Mais motoristas",
+          "descricao": "<p>Você pode cadastrar mais motoristas para o uso do carro sem custo adicional.</p>\n<p><strong>É você <span style=\"color: #2f80ed;\">Livre</span> para compartilhar o veículo com quem quiser!</strong></p>\n"
+        },
+        {
+          "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/07/Imagem06.png",
+          "titulo": "Mensali-<br>dades fixas",
+          "tituloMobile": "Mensalidades fixas",
+          "descricao": "<p>Independente do período de assinatura, as mensalidades são fixas e incluem toda a documentação necessária, manutenções preventivas e proteção 24h.</p>\n<p><strong>Você <span style=\"color: #2f80ed;\">Livre</span> de preocupações!</strong></p>\n"
+        },
+        {
+          "imagem": "https://wplivre.unidas.com.br/wp-content/uploads/2020/07/Imagem05.png",
+          "titulo": "É fácil assinar",
+          "tituloMobile": "É fácil assinar",
+          "descricao": "<p>Após definir o modelo, cor do carro, período de contratação e franquia de km mensal. Então, coletamos seus dados, sua proposta segue para a análise de crédito e a gente te retorna em até 2 dias úteis.</p>\n<p><strong>Isso sim é aproveitar a vida. Isso é ser <span style=\"color: #2f80ed;\">Livre</span>!</strong></p>\n"
+        }
+      ],
+      "introducaoCurta": {
+        "titulo": "Unidas Livre, seu carro por assinatura",
+        "descricao": "<h4>Conheça o Unidas Livre, seu novo jeito de ter um carro</h4>\n<p><strong>Livre é o serviço de carro por assinatura da Unidas</strong> com mensalidades fixas. Contrate carros 0 km por 12, 18, 24, 36 ou 48 meses e esqueça os gastos e as burocracias com IPVA, licenciamento, seguro e manutenções previstas no manual. <strong>Na assinatura do Livre está tudo incluso!</strong></p>\n<p>Além de contar com a <strong>proteção 24h</strong>, quem é <strong>Livre</strong> não precisa revender o carro e sofrer com a sua desvalorização. Ao final do contrato, basta devolver o veículo. E, para rodar novamente de 0km, é só renovar a assinatura!</p>\n",
+        "video": "https://www.youtube.com/embed/35rCUaT2Q60?rel=0",
+        "frase": "Com o Livre, você se livra do alto investimento de comprar um carro e pode aplicar o seu dinheiro em outro sonho!"
+      }
+    }
+  }
+}
